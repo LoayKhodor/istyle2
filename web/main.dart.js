@@ -48268,7 +48268,7 @@ A.rV.prototype={
 aG(){return new A.G7(B.p)}}
 A.G7.prototype={
 T(a,b){var s=null,r=A.w8(6),q=new A.dp(B.m,4,B.aP),p=t.R
-return new A.rs(new A.x0(B.j2,B.p2,B.eb,B.jC,s,B.iR,s,A.a([A.wo(A.kE(A.a_H(new A.iP(new A.bl(10,10,10,10),A.wo(A.wo(new A.oL("Oops something went wrong!!\n\nTry scanning the QR code inside",A.t7(s,s,new A.O(4292745269),s,s,s,s,s,"Ubuntu",s,s,20,s,s,s,s,!0,s,1,s,s,s,s,s,s),18,24,B.iL,4,s),s,s),s,s),s),new A.he(s,s,new A.cG(q,q,q,q),r,s,s,B.bo),B.cb),200,320),s,s),A.kE(new A.m7(new A.lp("images/istyle.png",s,s),s),200,320),A.a4J(A.a([A.a_U(A.a_X("icons/ig.png"),30,new A.XX()),A.kE(s,s,20),A.a_U(A.a_X("icons/tiktok.png"),30,new A.XY()),A.kE(s,s,20),A.a_U(A.a_X("images/web.png"),30,new A.XZ())],p),B.p2,B.eb)],p),s),s)}}
+return new A.rs(new A.x0(B.j2,B.p2,B.eb,B.jC,s,B.iR,s,A.a([A.wo(A.kE(A.a_H(new A.iP(new A.bl(10,10,10,10),A.wo(A.wo(new A.oL("Oops something went wrong!!\n\nTry scanning the QR code inside",A.t7(s,s,new A.O(4292745269),s,s,s,s,s,"Ubuntu",s,s,20,s,s,s,s,!0,s,1,s,s,s,s,s,s),18,22,B.iL,5,s),s,s),s,s),s),new A.he(s,s,new A.cG(q,q,q,q),r,s,s,B.bo),B.cb),200,320),s,s),A.kE(new A.m7(new A.lp("images/istyle.png",s,s),s),200,320),A.a4J(A.a([A.a_U(A.a_X("icons/ig.png"),30,new A.XX()),A.kE(s,s,20),A.a_U(A.a_X("icons/tiktok.png"),30,new A.XY()),A.kE(s,s,20),A.a_U(A.a_X("images/web.png"),30,new A.XZ())],p),B.p2,B.eb)],p),s),s)}}
 A.XX.prototype={
 $0(){return A.vI("https://www.instagram.com/istylebeirut/")},
 $S:0}
